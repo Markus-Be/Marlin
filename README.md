@@ -1,5 +1,10 @@
 # Marlin 3D Printer Firmware
 
+# Working with German RepRap X400 Single Display with SD Card
+
+- Modifications:
+  - swaped Y and Z Axis in Pins.h
+
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
 Additional documentation can be found at [The Marlin Documentation Project](https://www.marlinfw.org/).
